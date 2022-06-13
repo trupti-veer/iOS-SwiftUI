@@ -1,1 +1,3 @@
-# iOS-SwiftUI-MVVM
+# iOS-SwiftUI
+
+App to try out different SwiftUI Components
